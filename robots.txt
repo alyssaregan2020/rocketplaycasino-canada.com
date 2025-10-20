@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rocketplaycasino-canada.com/sitemap.xml
